@@ -19,3 +19,6 @@ static string LongestCommonPrefix(string[] strs)
             }
             return first.Substring(0, index);
         }
+
+// Time Complexity : O(nlog(n))
+// Space Complexity: n
