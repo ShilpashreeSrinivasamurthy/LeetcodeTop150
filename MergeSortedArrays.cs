@@ -19,3 +19,6 @@ void MergeSortedArrays(int[] nums1, int m, int [] nums2, int n)
                 Console.WriteLine(i);
             }
         }
+
+// Time Complexity = O(m + n)
+// Space Complexity = O(1)
